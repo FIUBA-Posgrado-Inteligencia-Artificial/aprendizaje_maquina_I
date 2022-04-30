@@ -1,4 +1,4 @@
-# Bienvenidos a Aprendizaje de Maquina I
+# Bienvenidos a Aprendizaje de Máquina I
 
 Docentes :
 * Yoel Lopez (lopez.yoel25@gmail.com)
