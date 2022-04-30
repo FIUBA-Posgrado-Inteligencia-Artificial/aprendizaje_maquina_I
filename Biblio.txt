@@ -1,0 +1,6 @@
+The Elements of Statistical Learning | Trevor Hastie | Springer
+
+An Introduction to Statistical Learning | Gareth James | Springer
+
+Deep Learning | Ian Goodfellow | https://www.deeplearningbook.org/
+
