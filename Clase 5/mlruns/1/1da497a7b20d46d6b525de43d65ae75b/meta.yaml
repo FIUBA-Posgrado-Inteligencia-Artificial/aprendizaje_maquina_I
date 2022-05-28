@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/aprendizaje_maquina_I/Clase%205/mlruns/1/1da497a7b20d46d6b525de43d65ae75b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 1da497a7b20d46d6b525de43d65ae75b
+run_uuid: 1da497a7b20d46d6b525de43d65ae75b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653747785853
+status: 1
+tags: []
+user_id: ThoT

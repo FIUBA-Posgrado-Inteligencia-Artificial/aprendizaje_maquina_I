@@ -1,0 +1,4 @@
+artifact_location: file:///D:/aprendizaje_maquina_I/Clase%205/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: diabetes1
