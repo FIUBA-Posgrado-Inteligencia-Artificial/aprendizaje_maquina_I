@@ -1,0 +1,8 @@
+# Ignore .txt
+*.txt
+# Ignore .log
+*.log
+# Ignore .pyc
+*.pyc
+# Ignore .pkl
+*.pkl
