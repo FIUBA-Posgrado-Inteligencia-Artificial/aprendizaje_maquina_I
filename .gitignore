@@ -6,3 +6,9 @@
 *.pyc
 # Ignore .pkl
 *.pkl
+# Ignore folder Clase 5\catboost_info
+catboost_info
+# Ignore folder flagged
+flagged
+# Ignore mlruns
+mlruns
